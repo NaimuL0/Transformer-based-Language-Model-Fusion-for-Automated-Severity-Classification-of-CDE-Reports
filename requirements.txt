@@ -1,0 +1,27 @@
+# CASCADE - Core Dependencies
+# Tested with Python 3.10+ on NVIDIA A100 (40GB)
+
+# Deep Learning
+torch>=2.0.0
+transformers>=4.40.0
+datasets>=2.0.0
+evaluate>=0.4.0
+accelerate>=0.20.0
+
+# Machine Learning & Statistics
+scikit-learn>=1.3.0
+scipy>=1.10.0
+xgboost>=2.0.0
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+openpyxl>=3.1.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Utilities
+tqdm>=4.65.0
+pyyaml>=6.0
