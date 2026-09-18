@@ -27,6 +27,10 @@
 
 ## Overview
 
+<p align="center">
+  <img src="final methodology diagram.png" alt="Methodology Diagram" width="90%"/>
+</p>
+
 **CASCADE** is a privacy-conscious, dual-stream transformer framework for automated **four-class severity classification** (Normal, Mild, Moderate, Severe) from de-identified Color Doppler Echocardiography (CDE) text reports.
 
 Unlike traditional approaches that process clinical reports as monolithic text sequences, CASCADE explicitly separates **structured clinical findings** from **clinician-written diagnostic impressions** and learns their complementary contributions through attention-based fusion. The framework also includes a complete preprocessing pipeline for converting raw retrospective reports into de-identified, model-ready datasets.
@@ -44,7 +48,7 @@ Unlike traditional approaches that process clinical reports as monolithic text s
 ## Architecture
 
 <p align="center">
-  <img src="CASCADE.png" alt="CASCADE Architecture" width="90%"/>
+  <img src="Data Flow Example Tracing.png" alt="CASCADE Architecture" width="90%"/>
 </p>
 
 CASCADE processes each echocardiography report through the following pipeline:
