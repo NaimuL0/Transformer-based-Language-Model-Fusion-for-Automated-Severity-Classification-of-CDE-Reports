@@ -44,7 +44,7 @@ Unlike traditional approaches that process clinical reports as monolithic text s
 ## Architecture
 
 <p align="center">
-  <img src="assets/cascade_architecture.png" alt="CASCADE Architecture" width="90%"/>
+  <img src="CASCADE.png" alt="CASCADE Architecture" width="90%"/>
 </p>
 
 CASCADE processes each echocardiography report through the following pipeline:
