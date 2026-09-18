@@ -1,0 +1,17 @@
+\begin{table}[h]
+\centering
+\caption{Model comparison on severity classification (3×5 Repeated Stratified K-Fold)}
+\label{tab:comparison}
+\begin{tabular}{lcccc}
+\toprule
+Model & F1 Macro & QWK & Bal. Acc & Severe F1 \\
+\midrule
+TF-IDF+GBM (findings) & 0.7243 & 0.7071 & 0.7130 & 0.6885 \\
+TF-IDF+RF (full) & 0.8116 & 0.8049 & 0.7976 & 0.8021 \\
+TF-IDF+LogReg (full) & 0.8354 & 0.8525 & 0.8424 & 0.8325 \\
+TF-IDF+XGB (full) & 0.8675 & 0.8562 & 0.8627 & 0.8592 \\
+TF-IDF+GBM (full) & 0.8908 & 0.8870 & 0.8933 & 0.8951 \\
+\textbf{CDS-Fusion-V2 (ours)} & \textbf{0.9442} & \textbf{0.9584} & \textbf{0.9486} & \textbf{0.9272} \\
+\bottomrule
+\end{tabular}
+\end{table}

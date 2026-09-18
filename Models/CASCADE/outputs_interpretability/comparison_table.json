@@ -1,0 +1,44 @@
+[
+  {
+    "name": "TF-IDF+GBM (findings)",
+    "f1_macro": 0.7243,
+    "qwk": 0.7071,
+    "bal_acc": 0.713,
+    "severe_f1": 0.6885
+  },
+  {
+    "name": "TF-IDF+RF (full)",
+    "f1_macro": 0.8116,
+    "qwk": 0.8049,
+    "bal_acc": 0.7976,
+    "severe_f1": 0.8021
+  },
+  {
+    "name": "TF-IDF+LogReg (full)",
+    "f1_macro": 0.8354,
+    "qwk": 0.8525,
+    "bal_acc": 0.8424,
+    "severe_f1": 0.8325
+  },
+  {
+    "name": "TF-IDF+XGB (full)",
+    "f1_macro": 0.8675,
+    "qwk": 0.8562,
+    "bal_acc": 0.8627,
+    "severe_f1": 0.8592
+  },
+  {
+    "name": "TF-IDF+GBM (full)",
+    "f1_macro": 0.8908,
+    "qwk": 0.887,
+    "bal_acc": 0.8933,
+    "severe_f1": 0.8951
+  },
+  {
+    "name": "CDS-Fusion-V2 (ours)",
+    "f1_macro": 0.9442,
+    "qwk": 0.9584,
+    "bal_acc": 0.9486,
+    "severe_f1": 0.9272
+  }
+]
