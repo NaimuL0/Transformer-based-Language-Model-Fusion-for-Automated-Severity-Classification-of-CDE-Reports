@@ -370,7 +370,7 @@ If you find this work useful, please cite our paper:
 @article{shanto2025cascade,
   title={Transformer-based Language Model Fusion for Automated Severity Classification 
          of Color Doppler Echocardiography Reports},
-  author={Shanto, Mohammad Naimul Islam and Uddin, Md Sayem and Ullah, Mohammad Aman 
+  author={Shanto, Mohammad Naimul Islam and Basher, Abdur Rahman Mohd Abul and Uddin, Md Sayem and Ullah, Mohammad Aman 
           and Imran, Md. Ibrahim Al and Sayed, Md. Abu},
   journal={[Under Review]},
   year={2025}
