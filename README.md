@@ -389,7 +389,7 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## Contact
 
-- **Mohammad Naimul Islam Shanto** — [naimulislam11032@gmail.com](mailto:naimulislam11032@gmail.com)
+- **Mohammad Naimul Islam Shanto** — [naimulislam11032@gmail.com](mailto:naimulislam11032@gmail.com) , [mshanto@students.kennesaw.edu](mailto:mshanto@students.kennesaw.edu)
 - Kennesaw State University, Department of Computer Science
 - International Islamic University Chittagong, Department of Computer Science and Engineering
 
